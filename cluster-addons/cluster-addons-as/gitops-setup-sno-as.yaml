@@ -8,11 +8,7 @@ spec:
   generators:
   - git:
       repoURL: https://github.com/alberzenon/workshop-gitops-content-deploy.git
-<<<<<<< HEAD
       revision: sno-17-setup
-=======
-      revision: sno-<clusterId>-setup
->>>>>>> 2aa50db5cf04f2de8ff0a65fe4291ee4a8e7bfc2
       files:
       - path: "cluster-definition/**/cluster.json"
   template:
