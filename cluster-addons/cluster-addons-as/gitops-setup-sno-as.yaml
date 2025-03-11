@@ -2,7 +2,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: ApplicationSet
 metadata:
-  name: gitops-setup-sno-<clusterId>
+  name: gitops-setup-sno-17
   namespace: openshift-operators
 spec:
   generators:

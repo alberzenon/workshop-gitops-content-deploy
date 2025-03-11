@@ -4,7 +4,7 @@
   "project": "project-sno-17",
   "region": "eu-central-1",
   "cluster": {
-    "name": "sno-11",
+    "name": "sno-17",
     "address": "https://api.sno-17.sandbox2414.opentlc.com:6443"
   }
 }
